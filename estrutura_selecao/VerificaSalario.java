@@ -10,6 +10,6 @@ public class VerificaSalario {
         }
         else {
             JOptionPane.showMessageDialog(null, "Você está recebendo um valor abaixo do salário mínimo de R$ " + String.format("%.02f",salarioMinimo) + " !");
-
+        }
     }
 }
